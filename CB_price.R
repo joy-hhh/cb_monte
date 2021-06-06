@@ -9,10 +9,10 @@ library(compiler)
 
 # import auxiliary functions
 source('bond.R')
-source('payoff.r')
-source('sde.r')
-source('backward_induction.r')
-source('boundary.r')
+source('payoff.R')
+source('sde.R')
+source('backward_induction.R')
+source('boundary.R')
 
 # general parameters
 t0 = 0 # initial time
